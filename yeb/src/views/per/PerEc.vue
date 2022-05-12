@@ -1,6 +1,6 @@
 <template>
   <div>
-    员工奖惩
+    员工奖惩test 
   </div>
 </template>
 
